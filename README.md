@@ -1,4 +1,3 @@
-// ...existing code...
 # simon-game
 
 A simple browser-based Simon game. The game shows an increasing sequence of colored buttons; the player must repeat the sequence by clicking the buttons.
